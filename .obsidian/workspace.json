@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "0ace996773ef6f7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1d05c5a4ac0884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a6a0da596dfd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 DSA/Sorting Algorithms/Merge Sort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Merge Sort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89cb7f64652b0099",
+    "type": "split",
+    "children": [
+      {
+        "id": "88487c7abe4479a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc5cd3e56dd8670",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2776fceb3efbbaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3ba9b8db2c6cc6bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.5
+  },
+  "right": {
+    "id": "bf3603e8287e8eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3caec56f047fad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7be1544212461b7e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5ac77a1693c3fcaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "193958d85d770d79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ba204a2e4deb95df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "6cc5cd3e56dd8670",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled",
+    "Pasted image 20250223001315.png",
+    "999 daily notes/2025-05-10.md",
+    "stamp/service/notes.md",
+    "999 daily notes/2025-05-07.md",
+    "stamp/service",
+    "stamp/Certificate/FILE_UPLOAD.md.md",
+    "stamp/Certificate/ERRORS.md.md",
+    "stamp/Certificate/API_REFERENCE.md.md",
+    "stamp/Deployment/GitLab CI CD Front Deployment.md",
+    "stamp/Deployment/DeploymentStrategyDocument.md",
+    "stamp/User/SECURITY.md",
+    "stamp/User/SCHEMA.md",
+    "stamp/User/API_REFERENCE.md",
+    "stamp/User/ErrorReference.md",
+    "stamp/User/LOCALIZATION.md",
+    "stamp/employee/localization.md",
+    "stamp/employee/error_reference.md",
+    "stamp/employee/employee_overview.md",
+    "stamp/employee/data_base_schema.md",
+    "stamp/employee/API_REFERENCE.md",
+    "stamp/company/api_reference.md",
+    "stamp/company/company_management_api.md",
+    "stamp/company/data_base_schecma.md",
+    "stamp/company/Error Reference.md",
+    "stamp/Certificate/SCHEMA.md.md",
+    "stamp/Certificate/LOCALIZATION.md.md",
+    "stamp/Certificate/certificate_management_api.md",
+    "stamp/User",
+    "stamp/Deployment/DeploymentStrategyDocument",
+    "stamp/Deployment/Deployment Strategy Document.txt",
+    "stamp/Deployment",
+    "stamp/Certificate",
+    "stamp/employee",
+    "stamp/company",
+    "stamp",
+    "Pasted image 20250328022757.png",
+    "Pasted image 20250328022812.png",
+    "999 DSA Roadmap/Programming Fundamentals/Untitled.canvas"
+  ]
+}
