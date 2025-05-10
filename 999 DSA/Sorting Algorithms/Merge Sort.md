@@ -21,7 +21,7 @@
 | -------------------- | ------------------------ | ----------------------- |
 | Space Complexity     | O(n) per recursion level | O(n) total              |
 | Memory Usage         | High (many arrays)       | Optimized               |
-| Code Readability     | More intuitive           | More complex            |
+| Code Readability     | More intuitive++         | More complex            |
 | Practical Efficiency | Slower                   | Faster                  |
 | Implementation Style | Functional               | Imperative              |
 ## **Example Code**
